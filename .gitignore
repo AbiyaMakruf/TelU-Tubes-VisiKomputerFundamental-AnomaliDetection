@@ -1,3 +1,4 @@
 dataset_collection/
 *.pt
 video_conveyor
+results/how_model_see/
