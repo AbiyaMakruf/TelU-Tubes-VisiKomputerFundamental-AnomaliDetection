@@ -1,5 +1,9 @@
 # 🌱 Deteksi Anomali Biji Kopi dengan YOLO
 
+## Poster
+
+<img src="readme/poster.png" alt="Poster" width="420">
+
 Proyek ini membangun sistem deteksi anomali biji kopi hijau (*hitam, hitam sebagian, kulit kopi kecil*) berbasis YOLO. Eksperimen dilakukan lintas versi YOLO (v8–v12), variasi ukuran model (nano/small/medium), serta perbandingan resolusi (640 vs 1024) dan augmentasi data. Semua eksperimen dan visualisasi terekam di `notebook.ipynb` dengan log ke MLflow/DagsHub.
 
 ## 🔍 Ringkasan Isi `notebook.ipynb`
